@@ -6,17 +6,7 @@ Currently focused on Python, backend engineering, and creating structured, maint
 ### What I’m working on
 - **Finance App** – a modular Python CLI for tracking expenses with summaries, filtering, backups, and undo/redo.
 
-### Interests
-- Backend development & system design  
-- Automation and productivity tools  
-- Clean architecture and refactoring  
-
-### Currently learning
-- FastAPI  
-- OCR pipelines (PDF → structured data)  
-- Frontend basics (HTML/CSS/JS or React for future UI work)
-
-### Find me
+### Contact: 
 - GitHub: **@ktr0a**
 - Portfolio: https://qluo.dev
 
