@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm ktr0a 👋
 
-<!--
-**QL358/QL358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student developer based in Austria, building tools, systems, and automations that actually solve problems.  
+Currently focused on Python, backend engineering, and creating structured, maintainable software.
 
-Here are some ideas to get you started:
+### What I’m working on
+- **Finance App** – a modular Python CLI for tracking expenses with summaries, filtering, backups, and undo/redo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- Backend development & system design  
+- Automation and productivity tools  
+- Clean architecture and refactoring  
+
+### Currently learning
+- FastAPI  
+- OCR pipelines (PDF → structured data)  
+- Frontend basics (HTML/CSS/JS or React for future UI work)
+
+### Find me
+- GitHub: **@ktr0a**
+- Portfolio: https://qluo.dev
+
