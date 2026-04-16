@@ -1,10 +1,11 @@
 # Hey, I'm ktr0a 👋
 
-I’m a student developer based in Austria, building tools, systems, and automations that actually solve problems.  
-Currently focused on Python, backend engineering, and creating structured, maintainable software.
+I’m a 17 yo currently based in Austria, currently doing my community service (Zivildienst; until September).
+
+I got accepted to the fall 2026 Computer Science Bachelors on ETHZ :)
 
 ### What I’m working on
-- **YouTube Scriptwriter** - a customizable llm workflow which can produce highly specialized and detailed scripts for YouTube videos (Current scope: Gaming, Roblox, Story-leading Videos)
+nothing really, my community service is taking most of my time :(
 
 ### Contact: 
 - GitHub: **@ktr0a**
