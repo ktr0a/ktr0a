@@ -1,11 +1,6 @@
 # Hey, I'm ktr0a 👋
 
-I’m a 17 yo currently based in Austria, currently doing my community service (Zivildienst; until September).
-
-I got accepted to the fall 2026 Computer Science Bachelors on ETHZ :)
-
-### What I’m working on
-nothing really, my community service is taking most of my time :(
+I’m a 18 yo currently based in Switzerland, currently in ETHZ Computer Science Bachelors, HS26.
 
 ### Contact: 
 - GitHub: **@ktr0a**
